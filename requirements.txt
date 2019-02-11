@@ -1,0 +1,1 @@
+-e git+https://github.com/timtadh/pyflwor.git@f3861f73b2bf6106a0363c15d5de040d8b01d50f#egg=pyflwor
